@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: lenovo public
+  computerName: c84d506e2795
   vmImage: ubuntu-latest
 
 steps:
